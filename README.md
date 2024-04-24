@@ -16,6 +16,41 @@ and any forfeiting identified can make the applicant liable to penalty as per th
 hall tickets for the applicants. After successful generation of hall tickets, the system delivers
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 ### UML DIAGRAMS:
+###Use case diagram
+
+
+![Screenshot 2024-04-24 112129](https://github.com/rdivyav/LAB-6-Online-examination-system/assets/148604723/f068803f-8bd5-4108-b655-153ccbdfad02)
+
+###Class diagram
+
+
+![Screenshot 2024-04-24 112243](https://github.com/rdivyav/LAB-6-Online-examination-system/assets/148604723/bfb0a5d3-87cd-4500-9e86-3f77d5f3d12d)
+
+###Sequence diagram
+
+
+![Screenshot 2024-04-24 112214](https://github.com/rdivyav/LAB-6-Online-examination-system/assets/148604723/fe7df2d2-4d02-454f-b5b1-2e0856e94bc5)
+
+###Communication diagram
+
+
+![Screenshot 2024-04-24 112308](https://github.com/rdivyav/LAB-6-Online-examination-system/assets/148604723/98389035-5a0e-4ec5-96cd-7d97dd68b94a)
+
+
+###Statechart diagram
+
+
+![Screenshot 2024-04-24 112325](https://github.com/rdivyav/LAB-6-Online-examination-system/assets/148604723/a729ad15-ff19-4b96-a8d3-f574c28fd586)
+
+###Activity diagram
+
+
+![Screenshot 2024-04-24 112343](https://github.com/rdivyav/LAB-6-Online-examination-system/assets/148604723/2a26a2d7-6627-4ee8-8cc5-69f2923e1611)
+
+###Package diagram
+
+
+![Screenshot 2024-04-24 112402](https://github.com/rdivyav/LAB-6-Online-examination-system/assets/148604723/a9798e13-a581-4f04-a0f4-095da9e10cc1)
 
 
 
